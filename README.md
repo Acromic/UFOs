@@ -3,6 +3,19 @@
 ## Overview of analysis
 An in-depth analysis of UFO sightings and allowing users to filter for multiple criterias at the same time.
 
+## Technologies
+  * Javascript
+  * HTML
+  * VS Code
+
+### Deliverable: Filter UFO sightings on multiple criteria
+
+  * The list element that creates the button is removed, and there are five list elements for filtering in the index.html file.
+  * The event listener is modified to detect changes to each filter in the app.js file.
+  * The updateFilters() function saves the element, value, and the id of the filter that was changed.
+  * The filterTable() function loops through all of the filters and keeps any data that matches the filter values.
+  * The webpage filters the table correctly based on user input.
+
 ## Results
 The user is given 5 search functions. You can manually input the date, search by city,
 <img src="Resources/by%20city.png" width="75%" height="75%"><br>
