@@ -1,4 +1,4 @@
-# UFOs
+# UFOs :space_invader: :alien:
 
 ## Overview of analysis
 An in-depth analysis of UFO sightings and allowing users to filter for multiple criterias at the same time.
